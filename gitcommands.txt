@@ -1,3 +1,9 @@
 git clone
+cd reponame
+git status
 git checkout -b New branch
-
+git checkout main
+git pull origin branch name
+git add .
+git commit -m "1st commit"
+git push origin branch name
