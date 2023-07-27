@@ -2,3 +2,6 @@ What is GitHub used for?
 GitHub is a code hosting platform for version control and collaboration. 
 It lets you and others work together on projects from anywhere.
 This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.
+Is GitHub a coding software?
+GitHub is an increasingly popular programming resource used for code sharing. 
+It's a social networking site for programmers that many companies and organizations use to facilitate project management and collaboratio
